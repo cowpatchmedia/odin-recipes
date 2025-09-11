@@ -1,0 +1,22 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', serif;
+    background-color: aquamarine;
+}
+
+h1{
+    font-size: 40px;
+    background-color: pink;
+    color: red;
+    border: 10px solid lime;
+    font-weight: bold;
+}
+
+li {
+    font-size: 16px;
+    border: 2px solid rgb(46, 1, 16);
+    width: 250px;
+    background-color: darksalmon;
+    padding: 3px;
+    margin: 5px;
+}
