@@ -10,6 +10,9 @@ h1{
     color: red;
     border: 10px solid lime;
     font-weight: bold;
+    text-align: center;
+    width: 400px;
+    margin: 0px auto;
 }
 
 li {
