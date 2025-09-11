@@ -23,3 +23,19 @@ li {
     padding: 3px;
     margin: 5px;
 }
+
+.recipetitle{
+    font-family: "Garamond", serif;
+    font-size: 20px;
+    background-color: white;
+    color: red;
+    border: 10px solid brown;
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+    margin: 0px auto;
+}
+
+h2{
+    color: yellow;
+}
